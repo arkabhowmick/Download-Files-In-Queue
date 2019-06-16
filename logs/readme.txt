@@ -1,0 +1,1 @@
+This folder contains the logs to store the failed files and completed files
